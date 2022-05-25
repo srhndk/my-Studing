@@ -9,3 +9,5 @@ let incr = 10,
     console.log(--decr);
 
     console.log(5%2);
+
+    console.log(`Hello world`);
